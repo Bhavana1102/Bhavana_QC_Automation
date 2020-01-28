@@ -25,6 +25,10 @@ public class TestBase {
 		}
 	}
 	
+	public void method(){
+		
+	}
+	
 	public static void browserInitialization(){
 		String browserName= prop.getProperty("browser");
 		if (browserName.equals("chrome")) {
