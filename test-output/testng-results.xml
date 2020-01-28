@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="25515" started-at="2020-01-07T10:40:29Z" finished-at="2020-01-07T10:40:55Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="25515" started-at="2020-01-07T10:40:29Z" finished-at="2020-01-07T10:40:55Z">
+      <class name="TestCases.TestCase">
+        <test-method status="PASS" signature="setup()[pri:0, instance:TestCases.TestCase@6f7fd0e6]" name="setup" is-config="true" duration-ms="1717" started-at="2020-01-07T16:10:29Z" finished-at="2020-01-07T16:10:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="RegistrationTest()[pri:0, instance:TestCases.TestCase@6f7fd0e6]" name="RegistrationTest" duration-ms="23777" started-at="2020-01-07T16:10:31Z" finished-at="2020-01-07T16:10:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- RegistrationTest -->
+        <test-method status="PASS" signature="Teardown()[pri:0, instance:TestCases.TestCase@6f7fd0e6]" name="Teardown" is-config="true" duration-ms="0" started-at="2020-01-07T16:10:55Z" finished-at="2020-01-07T16:10:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Teardown -->
+      </class> <!-- TestCases.TestCase -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
