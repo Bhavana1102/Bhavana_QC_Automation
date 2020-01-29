@@ -20,6 +20,8 @@ public class Login extends TestBase{
 		PageFactory.initElements(driver, this);
 	}
 	
+	public void method(){
+	}
 	
 	public void loginIntoApplication() throws Exception {
 	driver.get(prop.getProperty("url"));
